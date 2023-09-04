@@ -1,8 +1,18 @@
-## Bug Bounty Script
+# Rooter Subdomain Enumeration
 
-Bug Bounty Script is a powerful and versatile Bash script designed to automate security testing tasks for bug bounty hunting. This script streamlines the process of reconnaissance, port scanning, vulnerability scanning, and more, helping security researchers and bug bounty hunters efficiently identify potential security vulnerabilities in target domains.
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
+## Description
 
+Rooter Subdomain Enumeration is a Go script that performs subdomain enumeration on a target domain using various tools and saves the results in an output file.
+
+## Features
+
+- Utilizes popular subdomain enumeration tools.
+- Easy to use with a command-line interface.
+- Supports verbose mode for detailed information.
+- Results are saved in an output file for analysis.
+- 
 ## Prerequisites
 
 Rooter Subdomain Enumeration leverages the following subdomain enumeration tools:
