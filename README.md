@@ -22,7 +22,6 @@ Rooter Subdomain Enumeration leverages the following subdomain enumeration tools
 - subfinder
 - crt.sh
 - sublist3r
-- subbrute
 
 Refer to the respective tool documentation for installation instructions.
 
